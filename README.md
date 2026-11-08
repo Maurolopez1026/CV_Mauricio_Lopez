@@ -22,7 +22,7 @@
 - **Capacidad de adaptación al entorno laboral**
 - **Amplio conocimiento en finanzas**
 
----
+<!--
 
 ## 🎨 Formatos y Fuentes Disponibles
 
@@ -65,7 +65,7 @@
 |-------------|-------------|
 | Dato 1     | Dato 2      |
 
----
+--!>
 
 Esta plantilla en Markdown es editable y adaptable para cada estudiante. ¡Personaliza según sea necesario! 🎯
 
