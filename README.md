@@ -1,29 +1,26 @@
-# CV_Example
+  
 # Hoja de Vida
 
-## Nombre Completo
-**Profesión:** _Tu profesión_
+## Nombre Completo: Mauricio_Lopez
+**Profesión:** Aprendiz SENA
 
 ## 📞 Contacto
-- **Teléfono:** +57 123 456 7890
-- **Email:** [correo@ejemplo.com](mailto:correo@ejemplo.com)
-- **LinkedIn:** [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)
+- **Email:** [nelsonmlopezvilla@gmail.com](mailto:nelsonmlopezvilla@gmail.com)
+- **LinkedIn:** [www.linkedin.com/in/nelson-mauricio-lopez-villalba-abb39b177](www.linkedin.com/in/nelson-mauricio-lopez-villalba-abb39b177)
 
 ## 🏢 Experiencia Laboral
-### **Empresa XYZ** _(2020 - Actualidad)_
-- Puesto ocupado y descripción breve.
-
-### **Empresa ABC** _(2018 - 2020)_
-- Puesto ocupado y descripción breve.
+### **PATWAY SOLUTIONS** _(2022 - Actualidad)_
+- Ejecutivo de cuenta
+- Gestión Integral de Cartera: Seguimiento preventivo y correctivo de clientes para garantizar el cumplimiento de metas de colocación de crédito y recuperación de cartera.
 
 ## 🎓 Educación
-### **Universidad Ejemplo** _(2014 - 2018)_
-- Título obtenido.
+### **SENA** _(2026 - Actualidad)_
+- Tecnólogo Análisis y Desarrollo de Sotfware  .
 
 ## 💡 Habilidades
-- **Habilidad 1**
-- **Habilidad 2**
-- **Habilidad 3**
+- **Comunicacion acertiva**
+- **Capacidad de adaptación al entorno laboral**
+- **Amplio conocimiento en finanzas**
 
 ---
 
